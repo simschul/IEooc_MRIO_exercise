@@ -3,6 +3,5 @@ pandas
 plotnine
 jupyter
 pymrio
-os
 matplotlib
 tqdm
