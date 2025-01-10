@@ -40,3 +40,7 @@ It makes use of data from the following publication:
 
 Hardadi, Gilang, Alexander Buchholz, and Stefan Pauliuk. “Implications of the Distribution of German Household Environmental Footprints across Income Groups for Integrating Environmental and Social Policy Design.” Journal of Industrial Ecology 25, no. 1 (2020). https://doi.org/10.1111/jiec.13045.
 
+## License
+
+The material is made available under a Creative Commons Licence. It can be used in own teaching, modified and expanded.
+
